@@ -3,7 +3,7 @@
 This is a boilerplate code for building React applications using Vite, a fast build tool for modern web development. This boilerplate code provides a starting point for building a React application with Vite, with pre-configured settings for development and production environments.
 
 ### The boilerplate code includes the following features:
-+ React 18
++ React 18.2.0
 + Vite 4.3.2
 + ESLint and Prettier pre-configured
 + Support for TypeScript
