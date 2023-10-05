@@ -1,0 +1,40 @@
+@font-face {
+    font-family: 'Circular Light';
+    src: url('Light.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Light Italic';
+    src: url('Light-Italic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Regular';
+    src: url('Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Italic';
+    src: url('Italic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Medium';
+    src: url('Medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Medium Italic';
+    src: url('Medium-Italic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Semibold';
+    src: url('SemiBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Semibold Italic';
+    src: url('SemiBold-Italic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Bold';
+    src: url('Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Circular Bold Italic';
+    src: url('Bold-Italic.woff2') format('woff2');
+}

@@ -1,7 +1,13 @@
-@import "./assets/fonts/font.css";
+@import "./assets/fonts/style.css";
 
 :root {
-  font-family: "Gordita Regular";
+  font-family: "Circular Regular";
+  font-size: 16px;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
 }
 
 /* Box sizing rules */
